@@ -31,8 +31,8 @@ revision `0d13482`.
   project lives at `github.com/juice-shop/juice-shop` now, and the entry uses
   that URL. Star count and last push came from `make stats` afterwards.
 - Three entries had trailing whitespace at the end of the line, and four opened
-  the entry text with a lowercase letter: the author fields `_terraform-
-  compliance_`, `_r2c_`, and `_securego_` are capitalised, and the `Sigstore`
+  the entry text with a lowercase letter: the author fields `_terraform-compliance_`,
+  `_r2c_`, and `_securego_` are capitalised, and the `Sigstore`
   entry no longer opens by repeating its own name.
 - `Auth0/repo-supervisor` is gone from GitHub, so `Repo-supervisor` cannot carry
   a star count. The URL sits in `links.allowlist` with that reason. A maintainer
