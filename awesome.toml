@@ -1,0 +1,33 @@
+# Configuration for this awesome list. Everything the engine needs
+# beyond README.md lives here.
+
+name = "Awesome Devsecops"
+repo_slug = "awesome-devsecops"
+readme = "readme.md"
+badge = "default"
+
+sections = [
+    "Resources",
+    "Tools",
+    "Related Lists",
+]
+
+[site]
+# The template has no site generator yet, so this stays off.
+enabled = false
+
+[links]
+archive = "off"
+exclude = []
+allowlist = [
+    # The repository is gone from GitHub, so there are no stars to record and
+    # no other home could be confirmed in one pass.
+    "https://github.com/auth0/repo-supervisor",
+]
+
+[github]
+stats = true
+max_age_days = 14
+
+[tags]
+# This list carries no tag vocabulary, so every entry opts out of tags.

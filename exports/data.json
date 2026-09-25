@@ -1,0 +1,1533 @@
+{
+  "name": "Awesome Devsecops",
+  "repo_slug": "awesome-devsecops",
+  "generated_at": "2026-09-25",
+  "entry_count": 151,
+  "sections": [
+    {
+      "name": "Resources",
+      "entries": [
+        {
+          "name": "Our Approach to Employee Security Training",
+          "url": "https://www.pagerduty.com/blog/security-training-at-pagerduty/",
+          "description": "Pager Duty - Guidelines to running security training within an organisation.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 41
+        },
+        {
+          "name": "DevSecOps: Making Security Central To Your DevOps Pipeline",
+          "url": "https://spacelift.io/blog/what-is-devsecops",
+          "description": "Spacelift - An article explains what DevSecOps aims to achieve, why it’s advantageous, and how the DevSecOps lifecycle looks.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 42
+        },
+        {
+          "name": "Alice and Bob Learn Application Security",
+          "url": "https://www.wiley.com/en-gb/Alice+and+Bob+Learn+Application+Security-p-9781119687405",
+          "description": "Tanya Janca - An accessible and thorough resource for anyone seeking to incorporate, from the beginning of the System Development Life Cycle, best security practices in software development.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 46
+        },
+        {
+          "name": "DevSecCon",
+          "url": "https://www.devseccon.com/",
+          "description": "Snyk - A community that runs conferences, a blog, a podcast and a Discord dedicated to DevSecOps.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 50
+        },
+        {
+          "name": "TAG Security",
+          "url": "https://tag-security.cncf.io/",
+          "description": "Cloud Native Computing Foundation - TAG Security facilitates collaboration to discover and produce resources that enable secure access, policy control, and safety for operators, administrators, developers, and end-users across the cloud native ecosystem.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 51
+        },
+        {
+          "name": "AppSec Day",
+          "url": "https://appsecday.io/",
+          "description": "OWASP - An Australian application security conference run by OWASP.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 55
+        },
+        {
+          "name": "Shift Security Left",
+          "url": "https://shift-security-left.curated.co/",
+          "description": "Cossack Labs - A free biweekly newsletter for security-aware developers covering application security, secure architecture, DevSecOps, cryptography, incidents, etc. that can be useful for builders and (to a lesser extent) for breakers.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 59
+        },
+        {
+          "name": "Absolute AppSec",
+          "url": "https://absoluteappsec.com/",
+          "description": "Seth Law & Ken Johnson - Discussions about current events and specific topics related to application security.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 63
+        },
+        {
+          "name": "Application Security Podcast",
+          "url": "https://podcast.securityjourney.com/",
+          "description": "Security Journey - Interviews with industry experts about specific application security concepts.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 64
+        },
+        {
+          "name": "BeerSecOps",
+          "url": "https://blog.aquasec.com/devsecops-podcasts",
+          "description": "Aqua Security - Breaking down the silos of Dev, Sec and Ops, discussing topics that span these subject areas.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 65
+        },
+        {
+          "name": "DevSecOps Podcast Series",
+          "url": "https://soundcloud.com/owasp-podcast",
+          "description": "OWASP - Discussions with thought leaders and practitioners to integrate security into the development lifecycle.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 66
+        },
+        {
+          "name": "The Secure Developer",
+          "url": "https://www.mydevsecops.io/the-secure-developer-podcast",
+          "description": "Snyk - Discussion about security tools and best practices for software developers.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 67
+        },
+        {
+          "name": "Application Security Verification Standard",
+          "url": "https://owasp.org/www-project-application-security-verification-standard/",
+          "description": "OWASP - A framework of security requirements and controls to help developers design and develop secure web applications.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 71
+        },
+        {
+          "name": "Coding Standards",
+          "url": "https://wiki.sei.cmu.edu/confluence/display/seccode/SEI+CERT+Coding+Standards",
+          "description": "CERT - A collection of secure development standards for C, C++, Java and Android development.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 72
+        },
+        {
+          "name": "Fundamental Practices for Secure Software Development",
+          "url": "https://safecode.org/wp-content/uploads/2018/03/SAFECode_Fundamental_Practices_for_Secure_Software_Development_March_2018.pdf",
+          "description": "SAFECode - Guidelines for implementing key secure development practices throughout the SDLC.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 73
+        },
+        {
+          "name": "Proactive Controls",
+          "url": "https://owasp.org/www-project-proactive-controls/",
+          "description": "OWASP - OWASP's list of top ten controls that should be implemented in every software development project.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 74
+        },
+        {
+          "name": "Secure Coding Guidelines",
+          "url": "https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines",
+          "description": "Mozilla - A guideline containing specific secure development standards for secure web application development.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 75
+        },
+        {
+          "name": "Secure Coding Practices Quick Reference Guide",
+          "url": "https://owasp.org/www-pdf-archive/OWASP_SCP_Quick_Reference_Guide_v2.pdf",
+          "description": "OWASP - A checklist to verify that secure development standards have been followed.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 76
+        },
+        {
+          "name": "Building Security In Maturity Model (BSIMM)",
+          "url": "https://www.bsimm.com/framework.html",
+          "description": "Synopsys - A framework for software security created by observing and analysing data from leading software security initiatives.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 80
+        },
+        {
+          "name": "Secure Development Lifecycle",
+          "url": "https://www.microsoft.com/en-us/securityengineering/sdl/practices",
+          "description": "Microsoft - A collection of tools and practices that serve as a framework for the secure development lifecycle.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 81
+        },
+        {
+          "name": "Secure Software Development Framework",
+          "url": "https://csrc.nist.gov/CSRC/media/Publications/white-paper/2019/06/07/mitigating-risk-of-software-vulnerabilities-with-ssdf/draft/documents/ssdf-for-mitigating-risk-of-software-vulns-draft.pdf",
+          "description": "NIST - A framework consisting of practices, tasks and implementation examples for a secure development lifecycle.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 82
+        },
+        {
+          "name": "Software Assurance Maturity Model",
+          "url": "https://github.com/OWASP/samm",
+          "description": "OWASP - A framework to measure and improve the maturity of the secure development lifecycle.",
+          "tags": [],
+          "group": null,
+          "stars": 401,
+          "last_push": null,
+          "line": 83
+        },
+        {
+          "name": "Cloud Security and DevSecOps Best Practices and Securing Web Application Technologies (SWAT) Checklist",
+          "url": "https://www.sans.org/posters/cloud-security-devsecops-best-practices/",
+          "description": "SANS - A poster containing the Securing Web Application Technologies (SWAT) Checklist, SANS Cloud Security Curriculum, Cloud Security Top 10, Top 12 Kubernetes Threats, and Secure DevOps Toolchain.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 87
+        },
+        {
+          "name": "Periodic Table of DevOps Tools",
+          "url": "https://xebialabs.com/periodic-table-of-devops-tools/",
+          "description": "XebiaLabs - A collection of DevSecOps tooling categorised by tool functionality.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 88
+        },
+        {
+          "name": "Application Security Education",
+          "url": "https://github.com/duo-labs/appsec-education",
+          "description": "Duo Security - Training materials created by the Duo application security team, including introductory and advanced training presentations and hands-on labs.",
+          "tags": [],
+          "group": null,
+          "stars": 77,
+          "last_push": "2021-07-15",
+          "line": 92
+        },
+        {
+          "name": "Cybrary",
+          "url": "https://www.cybrary.it/",
+          "description": "Subscription based online courses with dedicated categories for cybersecurity and DevSecOps.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 93
+        },
+        {
+          "name": "PentesterLab",
+          "url": "https://pentesterlab.com/",
+          "description": "Hands on labs to understand and exploit simple and advanced web vulnerabilities.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 94
+        },
+        {
+          "name": "Practical DevSecOps",
+          "url": "https://www.practical-devsecops.com",
+          "description": "Learn DevSecOps concepts, tools, and techniques from industry experts with practical DevSecOps using state of the art browser-based labs.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 95
+        },
+        {
+          "name": "SafeStack",
+          "url": "https://academy.safestack.io/",
+          "description": "Security training for software development teams, designed to be accessible to individuals and small teams as well as larger organisations.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 96
+        },
+        {
+          "name": "Secure Code Warrior",
+          "url": "https://www.securecodewarrior.com/",
+          "description": "Gamified and hands-on secure development training with support for courses, assessments and tournaments.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 97
+        },
+        {
+          "name": "SecureFlag",
+          "url": "https://www.secureflag.com/platform.html",
+          "description": "OWASP - Hands-on secure coding training for Developers and Build/Release Engineers.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 98
+        },
+        {
+          "name": "Security Training for Engineers",
+          "url": "https://sudo.pagerduty.com/for_engineers/",
+          "description": "Pager Duty - A presentation created and open-sourced by PagerDuty to provide security training to software engineers.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 99
+        },
+        {
+          "name": "Security Training for Everyone",
+          "url": "https://sudo.pagerduty.com/for_everyone/",
+          "description": "Pager Duty - A presentation created and open-sourced by PagerDuty to provide security training employees.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 100
+        },
+        {
+          "name": "Semgrep Academy",
+          "url": "https://academy.semgrep.dev/",
+          "description": "Semgrep - Free, on-demand courses covering topics including API security, secure coding and application security.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 101
+        },
+        {
+          "name": "Web Security Academy",
+          "url": "https://portswigger.net/web-security",
+          "description": "PortSwigger - A set of materials and labs to learn and exploit common web vulnerabilities.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 102
+        },
+        {
+          "name": "WeHackPuple",
+          "url": "https://wehackpurple.com/",
+          "description": "WeHackPurple - Online courses that teach application security theory and hands-on technical lessons.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 103
+        },
+        {
+          "name": "DevSecOps Hub",
+          "url": "https://snyk.io/devsecops/",
+          "description": "Snyk - Introduction to key DevSecOps concepts, processes and technologies.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 107
+        },
+        {
+          "name": "SecureFlag Knowledge Base",
+          "url": "https://knowledge-base.secureflag.com/",
+          "description": "OWASP - A repository of information about software vulnerabilities and how to prevent them.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 108
+        }
+      ]
+    },
+    {
+      "name": "Tools",
+      "entries": [
+        {
+          "name": "Deepfence ThreatMapper",
+          "url": "https://github.com/deepfence/ThreatMapper",
+          "description": "Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.",
+          "tags": [],
+          "group": null,
+          "stars": 5320,
+          "last_push": "2026-06-01",
+          "line": 116
+        },
+        {
+          "name": "Dependabot",
+          "url": "https://dependabot.com/",
+          "description": "GitHub - Automatically scan GitHub repositories for vulnerabilities and create pull requests to merge in patched dependencies.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 117
+        },
+        {
+          "name": "Dependency-Check",
+          "url": "https://owasp.org/www-project-dependency-check/",
+          "description": "OWASP - Scans dependencies for publicly disclosed vulnerabilities using CLI or build server plugins.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 118
+        },
+        {
+          "name": "Dependency-Track",
+          "url": "https://dependencytrack.org/",
+          "description": "OWASP - Monitor the volume and severity of vulnerable dependencies across multiple projects over time.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 119
+        },
+        {
+          "name": "JFrog XRay",
+          "url": "https://jfrog.com/xray/",
+          "description": "JFrog - Security and compliance analysis for artifacts stored in JFrog Artifactory.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 120
+        },
+        {
+          "name": "NPM Audit",
+          "url": "https://docs.npmjs.com/cli/audit",
+          "description": "NPM - Vulnerable package auditing for node packages built into the npm CLI.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 121
+        },
+        {
+          "name": "Renovate",
+          "url": "https://renovate.whitesourcesoftware.com/",
+          "description": "WhiteSource - Automatically monitor and update software dependencies for multiple frameworks and languages using a CLI or git repository apps.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 122
+        },
+        {
+          "name": "Requires.io",
+          "url": "https://requires.io/",
+          "description": "Olivier Mansion & Alexis Tabary - Automated vulnerable dependency monitoring and upgrades for Python projects.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 123
+        },
+        {
+          "name": "Snyk Open Source",
+          "url": "https://snyk.io/product/open-source-security-management/",
+          "description": "Snyk - Automated vulnerable dependency monitoring and upgrades using Snyk's dedicated vulnerability database.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 124
+        },
+        {
+          "name": "Automatic API Attack Tool",
+          "url": "https://github.com/imperva/automatic-api-attack-tool",
+          "description": "Imperva - Perform automated security scanning against an API based on an API specification.",
+          "tags": [],
+          "group": null,
+          "stars": 496,
+          "last_push": "2023-05-13",
+          "line": 130
+        },
+        {
+          "name": "BurpSuite Enterprise Edition",
+          "url": "https://portswigger.net/burp/enterprise",
+          "description": "PortSwigger - BurpSuite's web application vulnerability scanner used widely by penetration testers, modified with CI/CD integration and continuous monitoring over multiple web applications.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 131
+        },
+        {
+          "name": "Gauntlt",
+          "url": "https://github.com/gauntlt/gauntlt",
+          "description": "A Behaviour Driven Development framework to run security scans using common security tools and test output, defined using Gherkin syntax.",
+          "tags": [],
+          "group": null,
+          "stars": 997,
+          "last_push": "2022-06-20",
+          "line": 132
+        },
+        {
+          "name": "Netz",
+          "url": "https://github.com/spectralops/netz",
+          "description": "Spectral - Discover internet-wide misconfigurations, using zgrab2 and others.",
+          "tags": [],
+          "group": null,
+          "stars": 399,
+          "last_push": "2021-05-11",
+          "line": 133
+        },
+        {
+          "name": "RESTler",
+          "url": "https://github.com/microsoft/restler-fuzzer",
+          "description": "Microsoft - A stateful RESTful API scanner based on peer-reviewed research papers.",
+          "tags": [],
+          "group": null,
+          "stars": 2948,
+          "last_push": "2026-06-10",
+          "line": 134
+        },
+        {
+          "name": "SSL Labs Scan",
+          "url": "https://github.com/ssllabs/ssllabs-scan",
+          "description": "SSL Labs - Automated scanning for SSL / TLS configuration issues.",
+          "tags": [],
+          "group": null,
+          "stars": 1768,
+          "last_push": "2024-08-05",
+          "line": 135
+        },
+        {
+          "name": "Zed Attack Proxy (ZAP)",
+          "url": "https://github.com/zaproxy/zaproxy",
+          "description": "OWASP - An open-source web application vulnerability scanner, including an API for CI/CD integration.",
+          "tags": [],
+          "group": null,
+          "stars": 15823,
+          "last_push": "2026-09-24",
+          "line": 136
+        },
+        {
+          "name": "Checkov",
+          "url": "https://github.com/bridgecrewio/checkov",
+          "description": "Bridgecrew - Scan Terraform, AWS CloudFormation and Kubernetes templates for insecure configuration.",
+          "tags": [],
+          "group": null,
+          "stars": 9028,
+          "last_push": "2026-09-24",
+          "line": 144
+        },
+        {
+          "name": "KICS",
+          "url": "https://github.com/Checkmarx/kics",
+          "description": "Checkmarx - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle.",
+          "tags": [],
+          "group": null,
+          "stars": 2707,
+          "last_push": "2026-09-24",
+          "line": 145
+        },
+        {
+          "name": "Spectral DeepConfig",
+          "url": "https://spectralops.io/blog/spectral-launches-deepconfig-to-ensure-no-misconfiguration-at-all-layers-of-software/",
+          "description": "Spectral - Find misconfiguration both in infrastructure as well as apps as early as commit time.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 146
+        },
+        {
+          "name": "Terrascan",
+          "url": "https://github.com/accurics/terrascan",
+          "description": "Accurics - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.",
+          "tags": [],
+          "group": null,
+          "stars": 5214,
+          "last_push": null,
+          "line": 147
+        },
+        {
+          "name": "Cfn Nag",
+          "url": "https://github.com/stelligent/cfn_nag",
+          "description": "Stelligent - Scan AWS CloudFormation templates for insecure configuration.",
+          "tags": [],
+          "group": null,
+          "stars": 1312,
+          "last_push": "2024-08-01",
+          "line": 151
+        },
+        {
+          "name": "Clair",
+          "url": "https://github.com/quay/clair",
+          "description": "Red Hat - Scan App Container and Docker containers for publicly disclosed vulnerabilities.",
+          "tags": [],
+          "group": null,
+          "stars": 11066,
+          "last_push": "2026-09-24",
+          "line": 155
+        },
+        {
+          "name": "Dagda",
+          "url": "https://github.com/eliasgranderubio/dagda/",
+          "description": "Elías Grande - Compares OS and software dependency versions installed in Docker containers with public vulnerability databases, and also performs virus scanning.",
+          "tags": [],
+          "group": null,
+          "stars": 1250,
+          "last_push": "2023-05-23",
+          "line": 156
+        },
+        {
+          "name": "Docker-Bench-Security",
+          "url": "https://github.com/docker/docker-bench-security",
+          "description": "Docker - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.",
+          "tags": [],
+          "group": null,
+          "stars": 9699,
+          "last_push": "2026-06-04",
+          "line": 157
+        },
+        {
+          "name": "Grype",
+          "url": "https://github.com/anchore/grype/",
+          "description": "Anchore - An easy-to-integrate open source vulnerability scanning tool for container images and filesystems.",
+          "tags": [],
+          "group": null,
+          "stars": 12924,
+          "last_push": "2026-09-24",
+          "line": 158
+        },
+        {
+          "name": "Hadolint",
+          "url": "https://github.com/hadolint/hadolint",
+          "description": "Checks a Dockerfile against known rules and validates inline bash code in RUN statements.",
+          "tags": [],
+          "group": null,
+          "stars": 12428,
+          "last_push": "2026-08-24",
+          "line": 159
+        },
+        {
+          "name": "Snyk Container",
+          "url": "https://snyk.io/product/container-vulnerability-management/",
+          "description": "Snyk - Scan Docker and Kubernetes applications for security vulnerabilities during CI/CD or via continuous monitoring.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 160
+        },
+        {
+          "name": "Trivy",
+          "url": "https://github.com/aquasecurity/trivy",
+          "description": "Aqua Security - Simple and comprehensive vulnerability scanner for containers.",
+          "tags": [],
+          "group": null,
+          "stars": 38064,
+          "last_push": "2026-09-24",
+          "line": 161
+        },
+        {
+          "name": "Regula",
+          "url": "https://github.com/fugue/regula",
+          "description": "Fugue - Evaluate Terraform infrastructure-as-code for potential security misconfigurations and compliance violations prior to deployment.",
+          "tags": [],
+          "group": null,
+          "stars": 964,
+          "last_push": null,
+          "line": 165
+        },
+        {
+          "name": "Terraform Compliance",
+          "url": "https://terraform-compliance.com/",
+          "description": "Terraform-compliance - A lightweight, security and compliance focused test framework against terraform to enable negative testing capability for your infrastructure-as-code.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 166
+        },
+        {
+          "name": "Tfsec",
+          "url": "https://github.com/liamg/tfsec",
+          "description": "Liam Galvin - Scan Terraform templates for security misconfiguration and noncompliance with AWS, Azure and GCP security best practice.",
+          "tags": [],
+          "group": null,
+          "stars": 7040,
+          "last_push": "2026-03-25",
+          "line": 167
+        },
+        {
+          "name": "Kubescape",
+          "url": "https://kubescape.io/",
+          "description": "Cloud Native Computing Foundation - An open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 171
+        },
+        {
+          "name": "Kube-Score",
+          "url": "https://github.com/zegl/kube-score",
+          "description": "Gustav Westling - Scan Kubernetes object definitions for security and performance misconfiguration.",
+          "tags": [],
+          "group": null,
+          "stars": 3104,
+          "last_push": "2026-05-20",
+          "line": 172
+        },
+        {
+          "name": "Kubectrl Kubesec",
+          "url": "https://github.com/controlplaneio/kubectl-kubesec",
+          "description": "ControlPlane - Plugin for kubesec.io to perform security risk analysis for Kubernetes resources.",
+          "tags": [],
+          "group": null,
+          "stars": 517,
+          "last_push": "2025-01-23",
+          "line": 173
+        },
+        {
+          "name": "Ansible-Lint",
+          "url": "https://github.com/ansible-community/ansible-lint",
+          "description": "Ansible Community - Checks playbooks for practices and behaviour that could potentially be improved. As a community backed project ansible-lint supports only the last two major versions of Ansible.",
+          "tags": [],
+          "group": null,
+          "stars": 3910,
+          "last_push": "2026-09-24",
+          "line": 176
+        },
+        {
+          "name": "Bad SSL",
+          "url": "https://github.com/chromium/badssl.com",
+          "description": "The Chromium Project - A container running a number of webservers with poor SSL / TLS configuration. Useful for testing tooling.",
+          "tags": [],
+          "group": null,
+          "stars": 3049,
+          "last_push": "2026-06-01",
+          "line": 182
+        },
+        {
+          "name": "Cfngoat",
+          "url": "https://github.com/bridgecrewio/cfngoat",
+          "description": "Bridgecrew - Cloud Formation templates for creating stacks of intentionally insecure services in AWS. Ideal for testing the Cloud Formation Infrastructure as Code Analysis tools above.",
+          "tags": [],
+          "group": null,
+          "stars": 102,
+          "last_push": "2024-08-05",
+          "line": 183
+        },
+        {
+          "name": "CI/CD Goat",
+          "url": "https://github.com/cider-security-research/cicd-goat",
+          "description": "Cider Security - A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.",
+          "tags": [],
+          "group": null,
+          "stars": 2304,
+          "last_push": "2024-07-14",
+          "line": 184
+        },
+        {
+          "name": "Damn Vulnerable Web App",
+          "url": "https://www.dvwa.co.uk/",
+          "description": "Ryan Dewhurst - A web application that provides a safe environment to understand and exploit common web vulnerabilities.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 185
+        },
+        {
+          "name": "Juice Shop",
+          "url": "https://github.com/juice-shop/juice-shop",
+          "description": "OWASP - A web application containing the OWASP Top 10 security vulnerabilities and more.",
+          "tags": [],
+          "group": null,
+          "stars": 13943,
+          "last_push": "2026-09-23",
+          "line": 186
+        },
+        {
+          "name": "Kubernetes Goat",
+          "url": "https://github.com/madhuakula/kubernetes-goat",
+          "description": "Madhu Akula - Intentionally vulnerable cluster environment to learn and practice Kubernetes security.",
+          "tags": [],
+          "group": null,
+          "stars": 5793,
+          "last_push": "2026-04-16",
+          "line": 187
+        },
+        {
+          "name": "NodeGoat",
+          "url": "https://github.com/OWASP/NodeGoat",
+          "description": "OWASP - A Node.js web application that demonstrates and provides ways to address common security vulnerabilities.",
+          "tags": [],
+          "group": null,
+          "stars": 2067,
+          "last_push": "2024-06-15",
+          "line": 188
+        },
+        {
+          "name": "Pentest-Ground",
+          "url": "https://pentest-ground.com/",
+          "description": "Pentest-Tools.com - Pentest-Ground is a free playground with deliberately vulnerable web applications and network services.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 189
+        },
+        {
+          "name": "Terragoat",
+          "url": "https://github.com/bridgecrewio/terragoat",
+          "description": "Bridgecrew - Terraform templates for creating stacks of intentionally insecure services in AWS, Azure and GCP. Ideal for testing the Terraform Infrastructure as Code Analysis tools above.",
+          "tags": [],
+          "group": null,
+          "stars": 1306,
+          "last_push": "2025-07-13",
+          "line": 190
+        },
+        {
+          "name": "WrongSecrets",
+          "url": "https://github.com/OWASP/wrongsecrets",
+          "description": "OWASP - Vulnerable app with examples showing how to not use secrets",
+          "tags": [],
+          "group": null,
+          "stars": 1466,
+          "last_push": "2026-09-24",
+          "line": 191
+        },
+        {
+          "name": "Csper",
+          "url": "https://csper.io/report-uri",
+          "description": "A set of Content Security Policy tools that can test policies, monitor CSP reports and provide metrics and alerts.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 197
+        },
+        {
+          "name": "Streamdal",
+          "url": "https://streamdal.com",
+          "description": "Embed privacy controls in your application code to detect and monitor PII as it enters and leaves your systems, preventing it from reaching unintended databases, data streams, or pipelines.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 198
+        },
+        {
+          "name": "Ansible Vault",
+          "url": "https://docs.ansible.com/ansible/latest/user_guide/vault.html",
+          "description": "Ansible - Securely store secrets within Ansible pipelines.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 204
+        },
+        {
+          "name": "AWS Key Management Service (KMS)",
+          "url": "https://aws.amazon.com/kms/",
+          "description": "Amazon AWS - Create and manage cryptographic keys in AWS.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 205
+        },
+        {
+          "name": "AWS Secrets Manager",
+          "url": "https://aws.amazon.com/secrets-manager/",
+          "description": "Amazon AWS - Securely store retrievable application secrets in AWS.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 206
+        },
+        {
+          "name": "Azure Key Vault",
+          "url": "https://azure.microsoft.com/en-au/services/key-vault/",
+          "description": "Microsoft Azure - Securely store secrets within Azure.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 207
+        },
+        {
+          "name": "BlackBox",
+          "url": "https://github.com/StackExchange/blackbox",
+          "description": "StackExchange - Encrypt credentials within your code repository.",
+          "tags": [],
+          "group": null,
+          "stars": 6766,
+          "last_push": null,
+          "line": 208
+        },
+        {
+          "name": "Chef Vault",
+          "url": "https://github.com/chef/chef-vault",
+          "description": "Chef - Securely store secrets within Chef.",
+          "tags": [],
+          "group": null,
+          "stars": 406,
+          "last_push": "2026-09-04",
+          "line": 209
+        },
+        {
+          "name": "CredStash",
+          "url": "https://github.com/fugue/credstash",
+          "description": "Fugue - Securely store secrets within AWS using KMS and DynamoDB.",
+          "tags": [],
+          "group": null,
+          "stars": 2063,
+          "last_push": "2022-02-09",
+          "line": 210
+        },
+        {
+          "name": "CyberArk Application Access Manager",
+          "url": "https://www.cyberark.com/products/privileged-account-security-solution/application-access-manager/",
+          "description": "CyberArk - Secrets management for applications including secret rotation and auditing.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 211
+        },
+        {
+          "name": "Docker Secrets",
+          "url": "https://docs.docker.com/engine/swarm/secrets/",
+          "description": "Docker - Store and manage access to secrets within a Docker swarm.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 212
+        },
+        {
+          "name": "Git Secrets",
+          "url": "https://github.com/awslabs/git-secrets",
+          "description": "Amazon AWS - Scan git repositories for secrets committed within code or commit messages.",
+          "tags": [],
+          "group": null,
+          "stars": 13405,
+          "last_push": "2025-09-17",
+          "line": 213
+        },
+        {
+          "name": "Gopass",
+          "url": "https://github.com/gopasspw/gopass",
+          "description": "Password manager for teams relying on Git and gpg. Manages secrets in encrypted files and repositories.",
+          "tags": [],
+          "group": null,
+          "stars": 7222,
+          "last_push": "2026-09-23",
+          "line": 214
+        },
+        {
+          "name": "Google Cloud Key Management Service (KMS)",
+          "url": "https://cloud.google.com/kms",
+          "description": "Google Cloud Platform - Securely store secrets within GCP.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 215
+        },
+        {
+          "name": "HashiCorp Vault",
+          "url": "https://www.vaultproject.io/",
+          "description": "HashiCorp - Securely store secrets via UI, CLI or HTTP API.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 216
+        },
+        {
+          "name": "Keyscope",
+          "url": "https://github.com/SpectralOps/keyscope",
+          "description": "Spectral - Keyscope is an open source key and secret workflow tool (validation, invalidation, etc.) built in Rust.",
+          "tags": [],
+          "group": null,
+          "stars": 412,
+          "last_push": "2025-07-24",
+          "line": 217
+        },
+        {
+          "name": "Pinterest Knox",
+          "url": "https://github.com/pinterest/knox",
+          "description": "Pinterest - Securely store, rotate and audit secrets.",
+          "tags": [],
+          "group": null,
+          "stars": 1271,
+          "last_push": "2026-08-31",
+          "line": 218
+        },
+        {
+          "name": "Secrets Operations (SOPS)",
+          "url": "https://github.com/mozilla/sops",
+          "description": "Mozilla - Encrypt keys stored within YAML, JSON, ENV, INI and BINARY files.",
+          "tags": [],
+          "group": null,
+          "stars": 23205,
+          "last_push": "2026-09-21",
+          "line": 219
+        },
+        {
+          "name": "Teller",
+          "url": "https://github.com/spectralops/teller",
+          "description": "Spectral - A secrets management tool for developers - never leave your command line for secrets.",
+          "tags": [],
+          "group": null,
+          "stars": 3231,
+          "last_push": "2026-01-27",
+          "line": 220
+        },
+        {
+          "name": "CredScan",
+          "url": "https://secdevtools.azurewebsites.net/helpcredscan.html",
+          "description": "Microsoft - A credential scanning tool that can be run as a task in Azure DevOps pipelines.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 227
+        },
+        {
+          "name": "Detect Secrets",
+          "url": "https://github.com/Yelp/detect-secrets",
+          "description": "Yelp - An aptly named module for (surprise, surprise) detecting secrets within a code base.",
+          "tags": [],
+          "group": null,
+          "stars": 4639,
+          "last_push": "2026-04-02",
+          "line": 228
+        },
+        {
+          "name": "GitGuardian",
+          "url": "https://www.gitguardian.com/",
+          "description": "A web-based solution that scans and monitors public and private git repositories for secrets.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 229
+        },
+        {
+          "name": "Gitleaks",
+          "url": "https://github.com/zricethezav/gitleaks",
+          "description": "Zachary Rice - Gitleaks is a SAST tool for detecting hardcoded secrets like passwords, api keys, and tokens in git repositories.",
+          "tags": [],
+          "group": null,
+          "stars": 29469,
+          "last_push": "2026-09-23",
+          "line": 230
+        },
+        {
+          "name": "Nightfall",
+          "url": "https://nightfall.ai/solutions/product/github",
+          "description": "A web-based platform that monitors for sensitive data disclosure across several SDLC tools, including GitHub repositories.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 231
+        },
+        {
+          "name": "Repo-supervisor",
+          "url": "https://github.com/auth0/repo-supervisor",
+          "description": "Auth0 - Secrets scanning tool that can run as a CLI, as a Docker container or in AWS Lambda.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 232
+        },
+        {
+          "name": "SpectralOps",
+          "url": "https://spectralops.io",
+          "description": "Spectral - Automated code security, secrets, tokens and sensitive data scanning.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 233
+        },
+        {
+          "name": "truffleHog",
+          "url": "https://github.com/trufflesecurity/truffleHog",
+          "description": "Truffle Security - Searches through git repositories for secrets, digging deep into commit history and branches.",
+          "tags": [],
+          "group": null,
+          "stars": 28040,
+          "last_push": "2026-09-24",
+          "line": 234
+        },
+        {
+          "name": "DevSkim",
+          "url": "https://github.com/microsoft/DevSkim",
+          "description": "Microsoft - A set of IDE plugins, CLIs and other tools that provide security analysis for a number of programming languages.",
+          "tags": [],
+          "group": null,
+          "stars": 1008,
+          "last_push": "2026-09-23",
+          "line": 243
+        },
+        {
+          "name": "Graudit",
+          "url": "https://github.com/wireghoul/graudit/",
+          "description": "Eldar Marcussen - Grep source code for potential security flaws with custom or pre-configured regex signatures.",
+          "tags": [],
+          "group": null,
+          "stars": 1688,
+          "last_push": "2025-12-19",
+          "line": 244
+        },
+        {
+          "name": "Hawkeye",
+          "url": "https://github.com/hawkeyesec/scanner-cli",
+          "description": "Hawkeyesec - Modularised CLI tool for project security, vulnerability and general risk highlighting.",
+          "tags": [],
+          "group": null,
+          "stars": 361,
+          "last_push": null,
+          "line": 245
+        },
+        {
+          "name": "LGTM",
+          "url": "https://lgtm.com/",
+          "description": "Semmle - Scan and monitor code for security vulnerabilities using custom or built-in CodeQL queries.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 246
+        },
+        {
+          "name": "RIPS",
+          "url": "https://www.ripstech.com/",
+          "description": "Automated static analysis for PHP, Java and Node.js projects.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 247
+        },
+        {
+          "name": "SemGrep",
+          "url": "https://semgrep.dev/",
+          "description": "R2c - Semgrep is a fast, open-source, static analysis tool that finds bugs and enforces code standards at editor, commit, and CI time.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 248
+        },
+        {
+          "name": "SonarLint",
+          "url": "https://www.sonarlint.org/",
+          "description": "SonarSource - An IDE plugin that highlights potential security security issues, code quality issues and bugs.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 249
+        },
+        {
+          "name": "SonarQube",
+          "url": "https://www.sonarqube.org/",
+          "description": "SonarSource - Scan code for security and quality issues with support for a wide variety of languages.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 250
+        },
+        {
+          "name": "FlawFinder",
+          "url": "https://github.com/david-a-wheeler/flawfinder",
+          "description": "David Wheeler - Scan C / C++ code for potential security weaknesses.",
+          "tags": [],
+          "group": null,
+          "stars": 582,
+          "last_push": "2026-05-17",
+          "line": 255
+        },
+        {
+          "name": "Puma Scan",
+          "url": "https://github.com/pumasecurity/puma-scan",
+          "description": "Puma Security - A Visual Studio plugin to scan .NET projects for potential security flaws.",
+          "tags": [],
+          "group": null,
+          "stars": 446,
+          "last_push": "2026-08-07",
+          "line": 260
+        },
+        {
+          "name": "Conftest",
+          "url": "https://github.com/instrumenta/conftest",
+          "description": "Instrumenta - Create custom tests to scan any configuration file for security flaws.",
+          "tags": [],
+          "group": null,
+          "stars": 3270,
+          "last_push": "2026-09-21",
+          "line": 264
+        },
+        {
+          "name": "Selefra",
+          "url": "https://github.com/selefra/selefra",
+          "description": "An open-source policy-as-code software that provides analytics for multi-cloud and SaaS.",
+          "tags": [],
+          "group": null,
+          "stars": 545,
+          "last_push": "2023-08-30",
+          "line": 265
+        },
+        {
+          "name": "Deep Dive",
+          "url": "https://discotek.ca/deepdive.xhtml",
+          "description": "Discotek.ca - Static analysis for JVM deployment units including Ear, War, Jar and APK.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 270
+        },
+        {
+          "name": "Find Security Bugs",
+          "url": "https://github.com/find-sec-bugs/find-sec-bugs/",
+          "description": "OWASP - SpotBugs plugin for security audits of Java web applications. Supports Eclipse, IntelliJ, Android Studio and SonarQube.",
+          "tags": [],
+          "group": null,
+          "stars": 2449,
+          "last_push": "2026-03-26",
+          "line": 271
+        },
+        {
+          "name": "SpotBugs",
+          "url": "https://github.com/spotbugs/spotbugs",
+          "description": "Static code analysis for Java applications.",
+          "tags": [],
+          "group": null,
+          "stars": 3947,
+          "last_push": "2026-09-24",
+          "line": 272
+        },
+        {
+          "name": "ESLint",
+          "url": "https://eslint.org/",
+          "description": "JS Foundation - Linting tool for JavaScript with multiple security linting rules available.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 277
+        },
+        {
+          "name": "Golang Security Checker",
+          "url": "https://github.com/securego/gosec",
+          "description": "Securego - CLI tool to scan Go code for potential security flaws.",
+          "tags": [],
+          "group": null,
+          "stars": 8953,
+          "last_push": "2026-09-22",
+          "line": 282
+        },
+        {
+          "name": "Security Code Scan",
+          "url": "https://github.com/security-code-scan/security-code-scan",
+          "description": "Static code analysis for C# and VB.NET applications.",
+          "tags": [],
+          "group": null,
+          "stars": 974,
+          "last_push": "2024-07-08",
+          "line": 287
+        },
+        {
+          "name": "Phan",
+          "url": "https://github.com/phan/phan",
+          "description": "Broad static analysis for PHP applications with some support for security scanning features.",
+          "tags": [],
+          "group": null,
+          "stars": 5626,
+          "last_push": "2026-09-15",
+          "line": 292
+        },
+        {
+          "name": "PHPCS Security Audit",
+          "url": "https://github.com/FloeDesignTechnologies/phpcs-security-audit",
+          "description": "Floe - PHP static analysis with rules for PHP, Drupal 7 and PHP related CVEs.",
+          "tags": [],
+          "group": null,
+          "stars": 728,
+          "last_push": "2023-01-05",
+          "line": 293
+        },
+        {
+          "name": "Progpilot",
+          "url": "https://github.com/designsecurity/progpilot",
+          "description": "Design Security - Static analysis for PHP source code.",
+          "tags": [],
+          "group": null,
+          "stars": 369,
+          "last_push": "2025-08-17",
+          "line": 294
+        },
+        {
+          "name": "Bandit",
+          "url": "https://github.com/PyCQA/bandit",
+          "description": "Python Code Quality Authority - Find common security vulnerabilities in Python code.",
+          "tags": [],
+          "group": null,
+          "stars": 8281,
+          "last_push": "2026-09-21",
+          "line": 299
+        },
+        {
+          "name": "Brakeman",
+          "url": "https://github.com/presidentbeef/brakeman",
+          "description": "Justin Collins - Static analysis tool which checks Ruby on Rails applications for security vulnerabilities.",
+          "tags": [],
+          "group": null,
+          "stars": 7273,
+          "last_push": "2026-09-25",
+          "line": 304
+        },
+        {
+          "name": "DawnScanner",
+          "url": "https://github.com/thesp0nge/dawnscanner",
+          "description": "Paolo Perego - Security scanning for Ruby scripts and web application. Supports Ruby on Rails, Sinatra and Padrino frameworks.",
+          "tags": [],
+          "group": null,
+          "stars": 748,
+          "last_push": "2024-03-02",
+          "line": 305
+        },
+        {
+          "name": "Harden Runner GitHub Action",
+          "url": "https://github.com/step-security/harden-runner",
+          "description": "StepSecurity - installs a security agent on the GitHub-hosted runner (Ubuntu VM) to prevent exfiltration of credentials, detect compromised dependencies and build tools, and detect tampering of source code during the build.",
+          "tags": [],
+          "group": null,
+          "stars": 1274,
+          "last_push": "2026-09-24",
+          "line": 312
+        },
+        {
+          "name": "Overlay",
+          "url": "https://github.com/os-scar/overlay",
+          "description": "SCAR - a browser extension helping developers evaluate open source packages before picking them.",
+          "tags": [],
+          "group": null,
+          "stars": 229,
+          "last_push": "2025-06-22",
+          "line": 313
+        },
+        {
+          "name": "Preflight",
+          "url": "https://github.com/spectralops/preflight",
+          "description": "Spectral - helps you verify scripts and executables to mitigate supply chain attacks in your CI and other systems, such as in the recent Codecov hack.",
+          "tags": [],
+          "group": null,
+          "stars": 156,
+          "last_push": "2022-11-27",
+          "line": 314
+        },
+        {
+          "name": "Sigstore",
+          "url": "https://www.sigstore.dev/",
+          "description": "A set of free to use and open source tools, including fulcio, cosign and rekor, handling digital signing, verification and checks for provenance needed to make it safer to distribute and use open source software.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 315
+        },
+        {
+          "name": "Syft",
+          "url": "https://github.com/anchore/syft/",
+          "description": "Anchore - A CLI tool for generating a Software Bill of Materials (SBOM) from container images and filesystems.",
+          "tags": [],
+          "group": null,
+          "stars": 9606,
+          "last_push": "2026-09-24",
+          "line": 316
+        },
+        {
+          "name": "Awesome Threat Modelling",
+          "url": "https://github.com/hysnsec/awesome-threat-modelling",
+          "description": "Practical DevSecOps - A curated list of threat modelling resources.",
+          "tags": [],
+          "group": null,
+          "stars": 1814,
+          "last_push": "2024-08-02",
+          "line": 322
+        },
+        {
+          "name": "SecuriCAD",
+          "url": "https://www.foreseeti.com/",
+          "description": "Forseeti - Treat modelling and attack simulations for IT infrastructure.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 323
+        },
+        {
+          "name": "IriusRisk",
+          "url": "https://iriusrisk.com/",
+          "description": "Draw threat models and capture threats and countermeasures and manage risk.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 324
+        },
+        {
+          "name": "Raindance Project",
+          "url": "https://github.com/devsecops/raindance",
+          "description": "DevSecOps - Use attack maps to identify attack surface and adversary strategies that may lead to compromise.",
+          "tags": [],
+          "group": null,
+          "stars": 48,
+          "last_push": "2016-11-24",
+          "line": 325
+        },
+        {
+          "name": "SD Elements",
+          "url": "https://www.securitycompass.com/sdelements/threat-modeling/",
+          "description": "Security Compass - Identify and rank threats, generate actionable tasks and track related tickets.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 326
+        },
+        {
+          "name": "Threat Dragon",
+          "url": "https://owasp.org/www-project-threat-dragon/",
+          "description": "OWASP - Threat model diagramming tool.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 327
+        },
+        {
+          "name": "Threat Modelling Tool",
+          "url": "https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling",
+          "description": "Microsoft - Threat model diagramming tool.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 328
+        },
+        {
+          "name": "Threatspec",
+          "url": "https://threatspec.org/",
+          "description": "Define threat modelling as code.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 329
+        }
+      ]
+    },
+    {
+      "name": "Related Lists",
+      "entries": [
+        {
+          "name": "Awesome Dynamic Analysis",
+          "url": "https://github.com/analysis-tools-dev/dynamic-analysis/",
+          "description": "Matthias Endler - A collection of dynamic analysis tools and code quality checkers.",
+          "tags": [],
+          "group": null,
+          "stars": 1105,
+          "last_push": "2026-09-21",
+          "line": 333
+        },
+        {
+          "name": "Awesome Platform Engineering",
+          "url": "https://github.com/shospodarets/awesome-platform-engineering/",
+          "description": "A curated list of solutions, tools and resources for Platform Engineering",
+          "tags": [],
+          "group": null,
+          "stars": 523,
+          "last_push": "2026-09-13",
+          "line": 334
+        },
+        {
+          "name": "Awesome Static Analysis",
+          "url": "https://github.com/analysis-tools-dev/static-analysis/",
+          "description": "Matthias Endler - A collection of static analysis tools and code quality checkers.",
+          "tags": [],
+          "group": null,
+          "stars": 14806,
+          "last_push": "2026-09-21",
+          "line": 335
+        },
+        {
+          "name": "Vulnerable Web Apps Directory",
+          "url": "https://owasp.org/www-project-vulnerable-web-applications-directory",
+          "description": "OWASP - A collection of vulnerable web applications for learning purposes.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 336
+        }
+      ]
+    }
+  ]
+}

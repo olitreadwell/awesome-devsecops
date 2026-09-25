@@ -1,0 +1,355 @@
+{
+  "generated_at": "2026-09-25",
+  "repos": {
+    "Checkmarx/kics": {
+      "stars": 2707,
+      "pushed_at": "2026-09-24",
+      "archived": false
+    },
+    "FloeDesignTechnologies/phpcs-security-audit": {
+      "stars": 728,
+      "pushed_at": "2023-01-05",
+      "archived": false
+    },
+    "OWASP/NodeGoat": {
+      "stars": 2067,
+      "pushed_at": "2024-06-15",
+      "archived": false
+    },
+    "OWASP/samm": {
+      "stars": 401,
+      "pushed_at": "2022-05-17",
+      "archived": true
+    },
+    "OWASP/wrongsecrets": {
+      "stars": 1466,
+      "pushed_at": "2026-09-24",
+      "archived": false
+    },
+    "PyCQA/bandit": {
+      "stars": 8281,
+      "pushed_at": "2026-09-21",
+      "archived": false
+    },
+    "SpectralOps/keyscope": {
+      "stars": 412,
+      "pushed_at": "2025-07-24",
+      "archived": false
+    },
+    "StackExchange/blackbox": {
+      "stars": 6766,
+      "pushed_at": "2025-11-05",
+      "archived": true
+    },
+    "Yelp/detect-secrets": {
+      "stars": 4639,
+      "pushed_at": "2026-04-02",
+      "archived": false
+    },
+    "accurics/terrascan": {
+      "stars": 5214,
+      "pushed_at": "2025-11-20",
+      "archived": true
+    },
+    "analysis-tools-dev/dynamic-analysis": {
+      "stars": 1105,
+      "pushed_at": "2026-09-21",
+      "archived": false
+    },
+    "analysis-tools-dev/static-analysis": {
+      "stars": 14806,
+      "pushed_at": "2026-09-21",
+      "archived": false
+    },
+    "anchore/grype": {
+      "stars": 12924,
+      "pushed_at": "2026-09-24",
+      "archived": false
+    },
+    "anchore/syft": {
+      "stars": 9606,
+      "pushed_at": "2026-09-24",
+      "archived": false
+    },
+    "ansible-community/ansible-lint": {
+      "stars": 3910,
+      "pushed_at": "2026-09-24",
+      "archived": false
+    },
+    "aquasecurity/trivy": {
+      "stars": 38064,
+      "pushed_at": "2026-09-24",
+      "archived": false
+    },
+    "awslabs/git-secrets": {
+      "stars": 13405,
+      "pushed_at": "2025-09-17",
+      "archived": false
+    },
+    "bridgecrewio/cfngoat": {
+      "stars": 102,
+      "pushed_at": "2024-08-05",
+      "archived": false
+    },
+    "bridgecrewio/checkov": {
+      "stars": 9028,
+      "pushed_at": "2026-09-24",
+      "archived": false
+    },
+    "bridgecrewio/terragoat": {
+      "stars": 1306,
+      "pushed_at": "2025-07-13",
+      "archived": false
+    },
+    "chef/chef-vault": {
+      "stars": 406,
+      "pushed_at": "2026-09-04",
+      "archived": false
+    },
+    "chromium/badssl.com": {
+      "stars": 3049,
+      "pushed_at": "2026-06-01",
+      "archived": false
+    },
+    "cider-security-research/cicd-goat": {
+      "stars": 2304,
+      "pushed_at": "2024-07-14",
+      "archived": false
+    },
+    "controlplaneio/kubectl-kubesec": {
+      "stars": 517,
+      "pushed_at": "2025-01-23",
+      "archived": false
+    },
+    "david-a-wheeler/flawfinder": {
+      "stars": 582,
+      "pushed_at": "2026-05-17",
+      "archived": false
+    },
+    "deepfence/ThreatMapper": {
+      "stars": 5320,
+      "pushed_at": "2026-06-01",
+      "archived": false
+    },
+    "designsecurity/progpilot": {
+      "stars": 369,
+      "pushed_at": "2025-08-17",
+      "archived": false
+    },
+    "devsecops/raindance": {
+      "stars": 48,
+      "pushed_at": "2016-11-24",
+      "archived": false
+    },
+    "docker/docker-bench-security": {
+      "stars": 9699,
+      "pushed_at": "2026-06-04",
+      "archived": false
+    },
+    "duo-labs/appsec-education": {
+      "stars": 77,
+      "pushed_at": "2021-07-15",
+      "archived": false
+    },
+    "eliasgranderubio/dagda": {
+      "stars": 1250,
+      "pushed_at": "2023-05-23",
+      "archived": false
+    },
+    "find-sec-bugs/find-sec-bugs": {
+      "stars": 2449,
+      "pushed_at": "2026-03-26",
+      "archived": false
+    },
+    "fugue/credstash": {
+      "stars": 2063,
+      "pushed_at": "2022-02-09",
+      "archived": false
+    },
+    "fugue/regula": {
+      "stars": 964,
+      "pushed_at": "2024-09-03",
+      "archived": true
+    },
+    "gauntlt/gauntlt": {
+      "stars": 997,
+      "pushed_at": "2022-06-20",
+      "archived": false
+    },
+    "gopasspw/gopass": {
+      "stars": 7222,
+      "pushed_at": "2026-09-23",
+      "archived": false
+    },
+    "hadolint/hadolint": {
+      "stars": 12428,
+      "pushed_at": "2026-08-24",
+      "archived": false
+    },
+    "hawkeyesec/scanner-cli": {
+      "stars": 361,
+      "pushed_at": "2021-08-31",
+      "archived": true
+    },
+    "hysnsec/awesome-threat-modelling": {
+      "stars": 1814,
+      "pushed_at": "2024-08-02",
+      "archived": false
+    },
+    "imperva/automatic-api-attack-tool": {
+      "stars": 496,
+      "pushed_at": "2023-05-13",
+      "archived": false
+    },
+    "instrumenta/conftest": {
+      "stars": 3270,
+      "pushed_at": "2026-09-21",
+      "archived": false
+    },
+    "juice-shop/juice-shop": {
+      "stars": 13943,
+      "pushed_at": "2026-09-23",
+      "archived": false
+    },
+    "liamg/tfsec": {
+      "stars": 7040,
+      "pushed_at": "2026-03-25",
+      "archived": false
+    },
+    "madhuakula/kubernetes-goat": {
+      "stars": 5793,
+      "pushed_at": "2026-04-16",
+      "archived": false
+    },
+    "microsoft/DevSkim": {
+      "stars": 1008,
+      "pushed_at": "2026-09-23",
+      "archived": false
+    },
+    "microsoft/restler-fuzzer": {
+      "stars": 2948,
+      "pushed_at": "2026-06-10",
+      "archived": false
+    },
+    "mozilla/sops": {
+      "stars": 23205,
+      "pushed_at": "2026-09-21",
+      "archived": false
+    },
+    "os-scar/overlay": {
+      "stars": 229,
+      "pushed_at": "2025-06-22",
+      "archived": false
+    },
+    "phan/phan": {
+      "stars": 5626,
+      "pushed_at": "2026-09-15",
+      "archived": false
+    },
+    "pinterest/knox": {
+      "stars": 1271,
+      "pushed_at": "2026-08-31",
+      "archived": false
+    },
+    "presidentbeef/brakeman": {
+      "stars": 7273,
+      "pushed_at": "2026-09-25",
+      "archived": false
+    },
+    "pumasecurity/puma-scan": {
+      "stars": 446,
+      "pushed_at": "2026-08-07",
+      "archived": false
+    },
+    "quay/clair": {
+      "stars": 11066,
+      "pushed_at": "2026-09-24",
+      "archived": false
+    },
+    "securego/gosec": {
+      "stars": 8953,
+      "pushed_at": "2026-09-22",
+      "archived": false
+    },
+    "security-code-scan/security-code-scan": {
+      "stars": 974,
+      "pushed_at": "2024-07-08",
+      "archived": false
+    },
+    "selefra/selefra": {
+      "stars": 545,
+      "pushed_at": "2023-08-30",
+      "archived": false
+    },
+    "shospodarets/awesome-platform-engineering": {
+      "stars": 523,
+      "pushed_at": "2026-09-13",
+      "archived": false
+    },
+    "spectralops/netz": {
+      "stars": 399,
+      "pushed_at": "2021-05-11",
+      "archived": false
+    },
+    "spectralops/preflight": {
+      "stars": 156,
+      "pushed_at": "2022-11-27",
+      "archived": false
+    },
+    "spectralops/teller": {
+      "stars": 3231,
+      "pushed_at": "2026-01-27",
+      "archived": false
+    },
+    "spotbugs/spotbugs": {
+      "stars": 3947,
+      "pushed_at": "2026-09-24",
+      "archived": false
+    },
+    "ssllabs/ssllabs-scan": {
+      "stars": 1768,
+      "pushed_at": "2024-08-05",
+      "archived": false
+    },
+    "stelligent/cfn_nag": {
+      "stars": 1312,
+      "pushed_at": "2024-08-01",
+      "archived": false
+    },
+    "step-security/harden-runner": {
+      "stars": 1274,
+      "pushed_at": "2026-09-24",
+      "archived": false
+    },
+    "thesp0nge/dawnscanner": {
+      "stars": 748,
+      "pushed_at": "2024-03-02",
+      "archived": false
+    },
+    "trufflesecurity/truffleHog": {
+      "stars": 28040,
+      "pushed_at": "2026-09-24",
+      "archived": false
+    },
+    "wireghoul/graudit": {
+      "stars": 1688,
+      "pushed_at": "2025-12-19",
+      "archived": false
+    },
+    "zaproxy/zaproxy": {
+      "stars": 15823,
+      "pushed_at": "2026-09-24",
+      "archived": false
+    },
+    "zegl/kube-score": {
+      "stars": 3104,
+      "pushed_at": "2026-05-20",
+      "archived": false
+    },
+    "zricethezav/gitleaks": {
+      "stars": 29469,
+      "pushed_at": "2026-09-23",
+      "archived": false
+    }
+  }
+}
